@@ -1,1 +1,1 @@
-# UL-EduHub
+# BrightEdu
